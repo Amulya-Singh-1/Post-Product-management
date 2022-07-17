@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Artifika&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap');
+
+Button{
+    width: 150px;
+    height: 35px;
+    color: black;
+    padding: 5px !important;
+    margin: 10px !important;
+}
+button:hover {
+    box-shadow:5px 5px #888888;
+    /* text-shadow:2px 2px #ff0000; */
+}
+header{
+    text-align: center;
+}
+h1{
+    color: rgb(94, 63, 205);
+    
+}
+Table{
+    width: 500px !important ;
+}
+.set{
+    border: 2px solid gray;
+    width: 500px;
+    padding: 10px;
+    height: 400px;
+    position:absolute
+}
+.searchz{
+    border-radius: 20px;
+}
+*{
+    font-family: 'Artifika', serif;
+}
+Button{
+    font-family: 'Almendra SC', serif !important;
+}
+h2{
+    color: blue;
+    font-family: 'Edu VIC WA NT Beginner', cursive !important;
+}
+h1{
+    font-family: 'Satisfy', cursive !important;
+}
+input[type="search"]{
+    border: 2px solid rgb(128, 128, 128);
+}
+input[type="checkbox"]{
+    border: 2px solid green !important;
+}
+.editdiv{
+    background-color: bisque;
+    width: 500px;
+    border: 2px solid gray;
+    position: absolute;
+   
+}
+.setbtn{
+    background-color: #888888;
+    display: inline-block;
+    width: 50px ;
+}
+.postbutton{
+    display: block;
+}
